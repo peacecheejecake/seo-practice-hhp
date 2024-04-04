@@ -29,6 +29,11 @@ yarn install
 
 ### 개선점
 
-- 스코어 개선을 위해 필요한 작업 1
-- 스코어 개선을 위해 필요한 내용 2
-- 스코어 개선을 위해 필요한 내용 3
+- headings(H1~H6) 추가하기
+
+- 최소 250자 이상의 text를 넣기
+
+- Internal link가 적어 페이지 구조를 알기 어려움. Intro page라면 제거할 것을 검토
+
+- Backlink 늘리기
+  - 3Social network에 페이지 홍보하기
