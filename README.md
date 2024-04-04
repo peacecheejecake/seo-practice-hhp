@@ -12,7 +12,7 @@
 yarn install
 ```
 
-## Favicon 세팅 <--- TODO
+## Favicon 세팅
 
 ### 각 파일의 역할
 
@@ -25,7 +25,7 @@ yarn install
 
 ## SEO 스코어 분석
 
-- 스코어 분석에 사용한 서비스: (링크 적기, 예: https://www.seobility.net/en/seocheck/)
+- 스코어 분석에 사용한 서비스: https://www.seobility.net/en/seocheck/
 
 ### 개선점
 
